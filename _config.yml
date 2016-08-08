@@ -19,3 +19,17 @@ github_username:  vetdefenceco
 
 # Build settings
 markdown: kramdown
+
+vda:
+  - iso: au
+    country: Australia
+    url: vda-australia.org
+  - iso: hk
+    country: Hong Kong
+    url: vda-asia.org
+  - iso: za
+    country: South Africa
+    url: vda-southafrica.org
+  - iso: us
+    country: United States
+    url: vda-america.org
